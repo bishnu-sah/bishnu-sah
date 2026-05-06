@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 👋 Hi, I'm Bishnu Sah<br><br>💻 Frontend & Full-Stack Developer passionate about building modern, responsive, and AI-powered web applications.<br><br>🚀 Currently working with React.js, Next.js, Node.js, MongoDB, and Tailwind CSS  <br>🧠 Exploring AI integration, scalable systems, and immersive UI experiences  <br>🌱 Learning advanced full-stack development and system design  <br>🤝 Open to internships, collaborations, and innovative projects  <br>⚡ Built projects in AI trip planning, healthcare systems, and modern frontend experiences
 
 
