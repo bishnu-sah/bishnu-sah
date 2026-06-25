@@ -1,17 +1,56 @@
- Hi,
-I'm Bishnu Sah
+# Hi 👋, I'm Bishnu Sah
 
-💻 AI Engineer passionate about building intelligent, scalable, and user-centric applications.
+💻 AI Engineer passionate about building intelligent, scalable, and production-ready AI applications.
 
-🚀 Specializing in Computer Vision, OCR, Generative AI, and modern web technologies.
+I enjoy solving real-world problems using Generative AI, Computer Vision, and Full-Stack Development. My focus is on developing AI-powered applications, integrating LLMs, building RAG pipelines, and creating modern web experiences.
 
-🧠 Currently building AI-powered automation systems using Python, React.js, FastAPI, YOLO, OpenCV, and LLMs.
+## 🚀 What I'm Working On
 
-🌱 Continuously learning advanced AI engineering, system design, and cloud technologies.
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Computer Vision & OpenCV
+- 📄 OCR & Intelligent Document Processing
+- 🗄️ Vector Databases & Semantic Search
+- ⚡ AI Automation & API Integration
+- 🌐 Full-Stack AI Applications
+- ☁️ Cloud & Docker Deployment
 
-🤝 Open to AI Engineer, Machine Learning Engineer, and Full-Stack AI Developer opportunities.
+## 🛠️ Tech Stack
 
-⚡ Built real-world projects in Computer Vision, OCR, AI automation, trip planning, and modern frontend development.
+### Programming Languages
+Python • JavaScript • Java • SQL • C
+
+### AI & Machine Learning
+LLMs • RAG • Prompt Engineering • OpenCV • PyTorch • Deep Learning • OCR • Vector Databases • AI Automation
+
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS
+
+### Backend
+FastAPI • Flask • Node.js • Express.js • REST APIs
+
+### Databases
+MongoDB • PostgreSQL • MySQL • Firebase
+
+### Cloud & DevOps
+Docker • Git • GitHub • Linux • AWS (Basics) • CI/CD
+
+### Tools
+VS Code • Postman • Jupyter Notebook • Figma
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Advanced RAG Systems
+- Multi-Agent AI
+- Cloud-Native AI Applications
+- Scalable AI Infrastructure
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/bishnusah
+- 📧 Email: bishnusaha3332@gmail.com
+
 
 
 # 📊 GitHub Stats:
